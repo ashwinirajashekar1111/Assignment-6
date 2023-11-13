@@ -1,0 +1,7 @@
+C:\Mphasis -B233\AppTwo\Day-6\Assignment-13th(nov)\ConAppAssignment11-13th(nov)\ConAppAssignment11-13th(nov)\bin\Debug\ConAppAssignment11-13th(nov).exe.config
+C:\Mphasis -B233\AppTwo\Day-6\Assignment-13th(nov)\ConAppAssignment11-13th(nov)\ConAppAssignment11-13th(nov)\bin\Debug\ConAppAssignment11-13th(nov).exe
+C:\Mphasis -B233\AppTwo\Day-6\Assignment-13th(nov)\ConAppAssignment11-13th(nov)\ConAppAssignment11-13th(nov)\bin\Debug\ConAppAssignment11-13th(nov).pdb
+C:\Mphasis -B233\AppTwo\Day-6\Assignment-13th(nov)\ConAppAssignment11-13th(nov)\ConAppAssignment11-13th(nov)\obj\Debug\ConAppAssignment11-13th(nov).csproj.AssemblyReference.cache
+C:\Mphasis -B233\AppTwo\Day-6\Assignment-13th(nov)\ConAppAssignment11-13th(nov)\ConAppAssignment11-13th(nov)\obj\Debug\ConAppAssignment11-13th(nov).csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\AppTwo\Day-6\Assignment-13th(nov)\ConAppAssignment11-13th(nov)\ConAppAssignment11-13th(nov)\obj\Debug\ConAppAssignment11-13th(nov).exe
+C:\Mphasis -B233\AppTwo\Day-6\Assignment-13th(nov)\ConAppAssignment11-13th(nov)\ConAppAssignment11-13th(nov)\obj\Debug\ConAppAssignment11-13th(nov).pdb

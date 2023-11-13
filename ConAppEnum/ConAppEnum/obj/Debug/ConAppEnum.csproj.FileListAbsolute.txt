@@ -1,0 +1,7 @@
+C:\Mphasis -B233\AppTwo\Day-6\ConAppEnum\ConAppEnum\bin\Debug\ConAppEnum.exe.config
+C:\Mphasis -B233\AppTwo\Day-6\ConAppEnum\ConAppEnum\bin\Debug\ConAppEnum.exe
+C:\Mphasis -B233\AppTwo\Day-6\ConAppEnum\ConAppEnum\bin\Debug\ConAppEnum.pdb
+C:\Mphasis -B233\AppTwo\Day-6\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.csproj.AssemblyReference.cache
+C:\Mphasis -B233\AppTwo\Day-6\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\AppTwo\Day-6\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.exe
+C:\Mphasis -B233\AppTwo\Day-6\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.pdb

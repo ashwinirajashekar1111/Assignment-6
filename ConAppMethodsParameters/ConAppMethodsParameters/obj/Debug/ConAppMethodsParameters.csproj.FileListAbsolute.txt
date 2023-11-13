@@ -1,0 +1,7 @@
+C:\Mphasis -B233\AppTwo\Day-6\ConAppMethodsParameters\ConAppMethodsParameters\bin\Debug\ConAppMethodsParameters.exe.config
+C:\Mphasis -B233\AppTwo\Day-6\ConAppMethodsParameters\ConAppMethodsParameters\bin\Debug\ConAppMethodsParameters.exe
+C:\Mphasis -B233\AppTwo\Day-6\ConAppMethodsParameters\ConAppMethodsParameters\bin\Debug\ConAppMethodsParameters.pdb
+C:\Mphasis -B233\AppTwo\Day-6\ConAppMethodsParameters\ConAppMethodsParameters\obj\Debug\ConAppMethodsParameters.csproj.AssemblyReference.cache
+C:\Mphasis -B233\AppTwo\Day-6\ConAppMethodsParameters\ConAppMethodsParameters\obj\Debug\ConAppMethodsParameters.csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\AppTwo\Day-6\ConAppMethodsParameters\ConAppMethodsParameters\obj\Debug\ConAppMethodsParameters.exe
+C:\Mphasis -B233\AppTwo\Day-6\ConAppMethodsParameters\ConAppMethodsParameters\obj\Debug\ConAppMethodsParameters.pdb
